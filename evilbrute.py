@@ -13,7 +13,6 @@ If favorite , reporta The error:
 {error}
 {bars}
 
-https://t.me/malaysiadefacer
 
 Thank you for using this tools
 """.format(error=error.message, bars="-"*len(error.message))
