@@ -112,8 +112,8 @@ def conexion():
     parser.add_argument("-r", dest='restore', action="store_true", help="Restore the last session of the attack")
     args = parser.parse_args()
     
-    authors = ['@Rh077king']
-    collaborators = ['@Rh077king']
+    authors = ['']
+    collaborators = ['']
 
     print """
  
